@@ -55,5 +55,4 @@ No hay dependencias de terceros: todo usa la biblioteca estándar.
 ```bat
 git clone https://github.com/<usuario>/d4tatool.git
 cd d4tatool
-setup.bat
 python d4tatool.py
